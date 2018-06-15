@@ -1,3 +1,7 @@
+/**
+*   Most of the code below comes from FrankShaw's repo on MsSqlUtil
+*/
+
 const mssql = require('mssql');
 const Promise = require('bluebird');
 
