@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+
+# IDE
+/.awcache
+/.vscode
+
+# misc
+npm-debug.log
+
+/data
+
+package-lock.json
+
+.DS_Store
+
